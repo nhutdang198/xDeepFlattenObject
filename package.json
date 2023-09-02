@@ -1,0 +1,27 @@
+{
+  "name": "x-deep-flatten-object",
+  "version": "0.0.1",
+  "description": "**xDeepFlattenObject** Recursively flattens a deeply nested object by concatenating keys using dots.",
+  "main": "xDeepFlattenObject.js",
+  "devDependencies": {
+    "@types/jest": "^29.5.4",
+    "jest": "^29.6.3",
+    "ts-jest": "^29.1.1",
+    "typescript": "^5.1.6"
+  },
+  "scripts": {
+    "test": "npx jest",
+    "build": "npx tsc xDeepFlattenObject.ts"
+  },
+  "author": "nhutdm",
+  "license": "MIT",
+  "keywords": [
+    "x-deep-flatten-object",
+    "x deep flatten object",
+    "deep flatten object",
+    "flattens object",
+    "flattens nested object",
+    "nested object",
+    "flatten object"
+  ]
+}
